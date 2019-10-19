@@ -1,0 +1,17 @@
+{
+  "mode": "modules",
+  "out": "docs",
+  "name": "spool-cluster",
+  "theme": "markdown",
+  "ignoreCompilerCluster": "true",
+  "experimentalDecorators": "true",
+  "emitDecoratorMetadata": "true",
+  "excludeExternals": "true",
+  "target": "ES6",
+  "moduleResolution": "node",
+  "preserveConstEnums": "true",
+  "stripInternal": "true",
+  "suppressExcessPropertyCluster": "true",
+  "suppressImplicitAnyIndexCluster": "true",
+  "module": "commonjs"
+}
